@@ -1,6 +1,5 @@
 - The zipped folder, IWC-main.zip contains all the code for the application so far
 - In IWC-main.zip, there is a VERY important ReadMe. Read that file. It explains the entire project, including installation and running
 - There is an Installation Guide in this repo as well
-- Due to some deployment requirements, the team worked out of a differnet GitHub repository. We created both a team email account as well as a team GitHub account. Since these should not be posted in a GitHub repository, contanct Nathan Szadowski at his butler email address which starts with nszadowski, Jacob Shank at his butler email address which starts with jshank, or Will Denning at his butler email address which starts with wdenning
   - You may also find that you have class with Nathan or Will (or they may even be in your group!), if this is the case, feel free to ask them for access to the necessary team accounts
 - The other zipped folder (sprint presentations), contains all the presentations from the semester as a resource (we suspect that the weekly status reports included in the FinalReport.docx will be more helpful but we have included these as well)
